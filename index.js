@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing /status","Watching ROBLOX NETWORK ⭐"];
+const statusMessages = ["Playing /help","Watching ROBLOX NETWORK ⭐"];
 
 
 let currentIndex = 0;
