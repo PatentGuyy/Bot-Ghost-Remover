@@ -16,7 +16,7 @@ This Discord bot status changer is a simple JavaScript application that allows y
 
 /**       
 
-  DISCORD SERVER : https://discord.gg/XXAKW6NcEc
+  DISCORD SERVER : https://discord.gg/34SvzPFHgj
   INSTAGRAM : https://instagram.com/niv_z_ed
  * **********************************************
  *   Code by PatentGuy
